@@ -5,4 +5,7 @@ Aggregate the data found in the Citi Bike Trip History Logs New York City for 20
 
 Click [here](https://public.tableau.com/profile/fawn.zou#!/vizhome/fz_citybike/Story1) to view complted dashboard
 
+## Skills 
+Python  Tableau
+
 
