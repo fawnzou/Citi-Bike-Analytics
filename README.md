@@ -1,4 +1,4 @@
-# Citi Bike Analytics
+# City Bike Analytics
 
 ## Task
 Build a data story using Tableau based on the data about city bike trip history in New York City for 2017.
